@@ -1,0 +1,9 @@
+Y:\Code\Barnacules.Belkin.WeMo.NET\Barnacules.Belkin.WeMo.NET\Barnacules.Belkin.WeMo.NET\Code\WeMo\ChaturbateChatMonitor\obj\Debug\ChaturbateChatMonitor.csprojResolveAssemblyReference.cache
+Y:\Code\Barnacules.Belkin.WeMo.NET\Barnacules.Belkin.WeMo.NET\Barnacules.Belkin.WeMo.NET\Code\WeMo\ChaturbateChatMonitor\bin\Debug\ChaturbateChatMonitor.dll
+Y:\Code\Barnacules.Belkin.WeMo.NET\Barnacules.Belkin.WeMo.NET\Barnacules.Belkin.WeMo.NET\Code\WeMo\ChaturbateChatMonitor\bin\Debug\ChaturbateChatMonitor.pdb
+Y:\Code\Barnacules.Belkin.WeMo.NET\Barnacules.Belkin.WeMo.NET\Barnacules.Belkin.WeMo.NET\Code\WeMo\ChaturbateChatMonitor\bin\Debug\WebKitBrowser.dll
+Y:\Code\Barnacules.Belkin.WeMo.NET\Barnacules.Belkin.WeMo.NET\Barnacules.Belkin.WeMo.NET\Code\WeMo\ChaturbateChatMonitor\bin\Debug\WebKit.Interop.dll
+Y:\Code\Barnacules.Belkin.WeMo.NET\Barnacules.Belkin.WeMo.NET\Barnacules.Belkin.WeMo.NET\Code\WeMo\ChaturbateChatMonitor\obj\Debug\ChaturbateChatMonitor.dll
+Y:\Code\Barnacules.Belkin.WeMo.NET\Barnacules.Belkin.WeMo.NET\Barnacules.Belkin.WeMo.NET\Code\WeMo\ChaturbateChatMonitor\obj\Debug\ChaturbateChatMonitor.pdb
+Y:\Code\Barnacules.Belkin.WeMo.NET\Barnacules.Belkin.WeMo.NET\Barnacules.Belkin.WeMo.NET\Code\WeMo\ChaturbateChatMonitor\obj\Debug\ChaturbateChatMonitor.csproj.GenerateResource.Cache
+Y:\Code\Barnacules.Belkin.WeMo.NET\Barnacules.Belkin.WeMo.NET\Barnacules.Belkin.WeMo.NET\Code\WeMo\ChaturbateChatMonitor\obj\Debug\ChaturbateChatMonitor.MonitorWindow.resources
